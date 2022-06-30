@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/log-rush/LogRushClient.Net</projectUrl>
+    <description>LogRush Client for C#</description>
+    <releaseNotes>added LogRushLogger and Log4Net LogRushLogger</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Log Logging LogRush</tags>
+  </metadata>
+</package>
