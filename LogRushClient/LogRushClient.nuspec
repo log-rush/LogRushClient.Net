@@ -5,7 +5,6 @@
     <version>$version$</version>
     <title>$title$</title>
     <authors>$author$</authors>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/log-rush/LogRushClient.Net</projectUrl>
     <description>LogRush Client for C#</description>

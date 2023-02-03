@@ -9,12 +9,13 @@
         <Copyright>Visual-Rock</Copyright>
         <PackageProjectUrl>https://github.com/log-rush</PackageProjectUrl>
         <RepositoryUrl>https://github.com/log-rush/LogRushClient.Net</RepositoryUrl>
-        <PackageReleaseNotes>- added LogRushClient
-- added Log4Net Integration</PackageReleaseNotes>
-        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <PackageReleaseNotes>- .net7.0
+- a little bit more async</PackageReleaseNotes>
         <LangVersion>11</LangVersion>
         <AssemblyVersion>1.0.0</AssemblyVersion>
         <FileVersion>1.0.0</FileVersion>
+        <Version>1.0.1</Version>
+        <Title>LogRushClient</Title>
     </PropertyGroup>
 
     <ItemGroup>
